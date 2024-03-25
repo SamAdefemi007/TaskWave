@@ -1,0 +1,37 @@
+.sidenav-container {
+  height: 100%;
+}
+
+.sidenav {
+  width: 200px;
+}
+
+.sidenav .mat-toolbar {
+  background: inherit;
+}
+
+.mat-toolbar.mat-primary {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+.content {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+.navlist {
+  width: 40%;
+}
+
+.register-Button {
+  border: 2px solid black;
+  margin-left: 5px;
+}
+.small-button {
+  padding: 0 0;
+  font-size: xx-small;
+  margin-left: 10px;
+  /* Adjust the font size and padding as needed */
+}

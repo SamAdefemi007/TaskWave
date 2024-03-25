@@ -1,0 +1,11 @@
+h2 {
+  font-size: 1.8em;
+  font-weight: 700;
+  color: #BE7B72;
+  margin: 0;
+}
+span {
+  font-style: italic;
+  color: #d74b76;
+  font-size: 1.1em;
+}
